@@ -23,6 +23,10 @@ h2 {
   text-align: left;
 }
 
+small {
+  margin: 10px 0;
+}
+
 /* Filter */
 .filter-box {
   width: 80%;
